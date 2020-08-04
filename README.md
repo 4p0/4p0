@@ -1,4 +1,4 @@
-## ✨ Salut ici, c'est 4p0 👋
+## Salut ici, c'est 4p0 👋
 
 
 #### ➣ A propos de moi:
