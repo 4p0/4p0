@@ -4,8 +4,7 @@
 #### ➣ A propos de moi:
 
 - 🔭 Je travaille actuellement sur [Visual Studio Code](website)!
-- 🌱 Je suis en train d'apprendre tout 🤣
-- ⚡ Fun fact: J'aime les pingouins sah
+
  
 #### ➣ Mes profiles
 - [$angelz](https://steamcommunity.com/id/aposogoodnolove)
